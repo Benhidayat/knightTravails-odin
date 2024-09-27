@@ -49,6 +49,7 @@ const knightMoves = (src, dst) => {
         }
 
     }
+    return -1;
 }
 
 knightMoves([0,0], [3,3]);
