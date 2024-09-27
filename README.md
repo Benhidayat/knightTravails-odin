@@ -1,1 +1,1 @@
-# knightTravails-odin
+Shortest possible knight moves to get from a square to another square in a 8 x 8 board.
